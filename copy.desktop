@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Copy
+GenericName=Copy
+Exec=lxterminal --geometry=102x33 -e "/home/pi/raspi-copy/copy.py"
+Type=Application
+Icon=lxterminal
+Categories=Utility;
